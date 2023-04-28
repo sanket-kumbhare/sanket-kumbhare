@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Kumbhare</h1>
 <h3 align="center">Coding with Curiosity | Embracing Challenges and Expanding Skills</h3>
-<img align="right" alt="Coding" width="200" src="https://thumbs.gfycat.com/OccasionalThatIndianskimmer-size_restricted.gif">
+<img align="right" alt="Coding" width="180" src="https://thumbs.gfycat.com/OccasionalThatIndianskimmer-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-kumbhare&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-kumbhare" /> </p>
 
 - 🔭 I’m currently working on [BIA](https://www.bostoninstituteofanalytics.org/)
@@ -28,7 +28,7 @@
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=postman,androidstudio,figma,vim,git,vscode,codepen,firebase,vscode,regex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,codepen,firebase,androidstudio,figma,vim,regex,md)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
