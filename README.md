@@ -39,8 +39,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket-kumbhare&show_icons=true&theme=tokyonight)
-![Sanket's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sanket-kumbhare&theme=tokyonight&border_color=000000)
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanket-kumbhare&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Sanket's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sanket-kumbhare&theme=tokyonight&border_color=000000)
 
   ### 🏆 GitHub Profile Trophy:
 ---
