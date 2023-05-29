@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Kumbhare</h1>
+<h1 align="center">Hi 👋, I'm Sanket Kumbhare</h1> 
 <h3 align="center">Coding with Curiosity | Embracing Challenges and Expanding Skills</h3>
 <img align="right" alt="Coding" width="180" src="https://thumbs.gfycat.com/OccasionalThatIndianskimmer-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-kumbhare&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-kumbhare" /> </p>
