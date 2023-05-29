@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Kumbhare</h1> 
+<h1 align="center">Hi 👋, I'm Sanket Kumbhare</h1>
 <h3 align="center">Coding with Curiosity | Embracing Challenges and Expanding Skills</h3>
 <img align="right" alt="Coding" width="180" src="https://thumbs.gfycat.com/OccasionalThatIndianskimmer-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-kumbhare&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-kumbhare" /> </p>
@@ -39,7 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket-kumbhare&show_icons=true&theme=tokyonight)
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanket-kumbhare&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanket-kumbhare&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits+true)
 ![Sanket's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sanket-kumbhare&theme=tokyonight&border_color=000000)
 
   ### 🏆 GitHub Profile Trophy:
