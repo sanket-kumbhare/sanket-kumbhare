@@ -14,11 +14,11 @@
 ---
 <h4 align="left">Connect with me:</h4>
 <p align="left">
+<a href="https://auth.geeksforgeeks.org/user/sanketkumbhare1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketkumbhare1511" height="30" width="40" /></a>
 <a href="https://dev.to/sanket_kumbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanket_kumbhare" height="30" width="40" /></a>
 <a href="https://twitter.com/sanket_kumbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanket_kumbhare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanket_kumbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket_kumbhare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanket_kumbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanket_kumbhare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sanketkumbhare1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketkumbhare1511" height="30" width="40" /></a>
 </p>
 
 ---
@@ -39,8 +39,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket-kumbhare&count_private=true&show_icons=true&theme=tokyonight)
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanket-kumbhare&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![Sanket's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=sanket-kumbhare&theme=tokyonight&border_color=000000)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanket-kumbhare&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
   ### 🏆 GitHub Profile Trophy:
 ---
