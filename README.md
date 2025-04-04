@@ -29,11 +29,11 @@
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,codepen,firebase,androidstudio,figma,vim,regex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,vscode,git,postman,codepen,firebase,androidstudio,figma,vim,regex,md)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis)](https://skillicons.dev)
 
 ---
 #### 🔮 OS
