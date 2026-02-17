@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LineUp](https://github.com/sanket-kumbhare/LineUp)
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Next.js and AI Stuff**
 
 - 📫 How to reach me **sanketkumbhare1511@gmail.com**
 
